@@ -113,3 +113,9 @@ action:select
 password:pskpsk
 login_type:admin
 order_by:Premal Katigar
+
+To clone project
+npm i 
+
+to run
+node app.js
